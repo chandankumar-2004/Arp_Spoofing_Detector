@@ -107,16 +107,6 @@ pip install pystray pillow pyttsx3 psutil
 
 ---
 
-## 📄 License
 
-Provided as-is without warranty. Use at your own risk.
-
----
-
-## 📞 Contact
-
-For support or feature requests, please contact the developer.
-
----
 
 Thank you for choosing the ARP Spoofing Detector! Stay safe on your network.
